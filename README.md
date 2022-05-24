@@ -1,6 +1,9 @@
 # ZiGAN Crawler
 > Download images from [陈忠建字库](http://163.20.160.14/~word/modules/myalbum/), only for research purpose.
-<img src="./archive/demo.png", width="100%">
+
+<p align="center">
+  <img src="./archive/demo.png" width="100%" alt="demo image">
+</p>
 
 ## Usage
 ### Setup Dependencies
